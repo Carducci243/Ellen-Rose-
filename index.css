@@ -1,0 +1,155 @@
+a,button{
+    font-family: 'EB garamond';
+}
+body{
+    background-color: white;
+}
+
+.header {
+  display: block;
+  width: 300px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.header-img {
+    width: 543px;
+    margin-left: 389px;
+    margin-bottom: 0px;
+    margin-top: -1px;
+    object-fit: contain;
+}
+
+.nav {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+.nav a {
+  color: black;
+  text-decoration: none;
+  padding-left: 28px;
+  padding-right: 28px;
+  font-size: 30px;
+}
+
+.container-review {
+  display: inline-block;
+  width: 400px;
+  margin-left: 90px;
+  margin-right: 0px;
+}
+
+.review-image {
+  width: 430px;
+}
+
+button {
+  position: absolute;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  opacity: 0.8;
+  border: none;
+  cursor: pointer;
+  transition: padding-top 1s, padding-bottom 1s, padding-left 1s,
+    padding-right 1s;
+    font-size: 15px;
+}
+
+
+button:hover {
+  background-color: rgb(170, 40, 61);
+  color: white;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 36px;
+  padding-right: 36px;
+}
+
+.flower-review-btn {
+    top: 321px;
+    left: 255px;
+}
+.flower-review-btn:hover {
+}
+
+.whats-new-container {
+  width: 700px;
+  display: inline-block;
+  margin-left: 0px;
+  vertical-align: top;
+}
+
+.whats-new-image {
+  width: 730px;
+  height: 330px;
+  margin-left: 40px;
+}
+.whats-new-button {
+    top: 329px;
+        left: 804px;
+}
+
+.whats-new-button:hover {
+}
+.container-gifts {
+  width: 300px;
+  display: inline-block;
+}
+
+.gifts-image {
+  width: 430px;
+  height: 390px;
+  margin-top: 10px;
+  margin-left: 90px;
+}
+.gifts-image-button {
+  top: 693px;
+
+  left: 266px;
+}
+
+.container-fresh-flower{
+
+    width: 312px ;
+    display: inline-block;
+    
+    
+}
+.fresh-flower-image{
+    width: 350px;
+    height: 390px;
+    margin-top: 0;
+    margin-left: 230px;
+    object-fit: cover;
+}
+.fresh-flower-button{
+
+    top: 693px;
+
+    left: 651px;
+}
+.container-blogpost{
+
+    width: 400px;
+    display: inline-block;
+
+}
+
+.blogpost-image{
+
+    width: 363px;
+    height: 390px;
+    margin-top: 0;
+    margin-left: 280px;
+    
+}
+
+.blogpost-button{
+
+    top: 693px;
+    left: 1055px;
+}

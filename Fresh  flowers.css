@@ -1,0 +1,93 @@
+a,button{
+    font-family: 'EB garamond';
+}
+body{
+    background-color: white;
+}
+
+.header {
+  display: block;
+  width: 300px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.header-img {
+    width: 543px;
+    margin-left: 389px;
+    margin-bottom: 0px;
+    margin-top: -1px;
+    object-fit: contain;
+}
+
+.nav {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+.nav a {
+  color: black;
+  text-decoration: none;
+  padding-left: 28px;
+  padding-right: 28px;
+  font-size: 30px;
+}
+
+.container-flower{
+    box-shadow: 0 0 5px rgba( 0,0,0,0.3);
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 50px;
+    
+
+}
+.flower-image{
+
+    width: 370px;
+    height: 370px;
+        object-fit: cover;
+        margin-bottom: 12px;
+}
+
+.name{
+
+    
+    margin-top: 1px;
+    font-size: 20px;
+    margin-left: 69px;
+    font-family: 'Poppins';
+
+}
+
+.price{
+    margin-top: 1px;
+    font-size: 20px;
+    margin-left: 139px;
+    font-family: 'Poppins';
+
+}
+
+button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 150px;
+    margin-left: 97px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    background-color: white;
+    font-size: 20px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    border-width: 3px;
+    border-color: #82553b;
+    color: #82553b;
+    cursor: pointer;
+}
+
+button:hover{
+
+    background-color: #ffd6bc;
+}
+
+
