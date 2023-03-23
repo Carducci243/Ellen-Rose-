@@ -153,3 +153,6 @@ button:hover {
     top: 693px;
     left: 1055px;
 }
+    @media screen and  (max-width:900px) and (min-width:600px){ 
+    
+}
